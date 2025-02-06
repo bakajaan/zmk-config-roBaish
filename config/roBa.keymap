@@ -42,10 +42,10 @@
 
         Shortcut {
             bindings = <
-&kp LANG_ZENKAKUHANKAKU  &kp F13       &trans        &trans  &trans                          &kp F14  &kp F15  &trans  &trans  &trans
-&kp TAB                  &trans        &trans        &trans  &trans  &trans      &trans      &trans   &trans   &trans  &trans  &trans
-&trans                   &trans        &trans        &trans  &trans  &trans      &trans      &trans   &trans   &trans  &trans  &trans
-&kp LCTRL                &kp LEFT_WIN  &kp LEFT_ALT  &trans  &trans  &trans      &kp DELETE  &trans                            &kp ESCAPE
+&kp LANG_ZENKAKUHANKAKU  &kp F13       &kp F14       &kp F15  &trans                          &trans  &trans  &trans  &trans  &trans
+&kp TAB                  &trans        &trans        &trans   &trans  &trans      &trans      &trans  &trans  &trans  &trans  &trans
+&trans                   &trans        &trans        &trans   &trans  &trans      &trans      &trans  &trans  &trans  &trans  &trans
+&kp LCTRL                &kp LEFT_WIN  &kp LEFT_ALT  &trans   &trans  &trans      &kp DELETE  &trans                          &kp ESCAPE
             >;
         };
     };
